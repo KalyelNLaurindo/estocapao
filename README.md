@@ -83,11 +83,11 @@ The terminal client is engineered for keyboard-only efficiency, optimized for ra
 
 This codebase represents a highly documented software engineering project. Navigating through the architectural and business definitions can be done via the following localized resources:
 
-- 🔍 [Product Discovery Document](file:///e:/Software%20Projects/Software%20Engineering%20Portfolio/01-programacao/EstocaP%C3%A3o/context/Product%20Discovery%20Document-%20EstocaP%C3%A3o.md) — Exhaustive user interviews, persona mappings, target audience pain points, and functional requirements definition.
-- 🏗️ [Software Design Document](file:///e:/Software%20Projects/Software%20Engineering%20Portfolio/01-programacao/EstocaP%C3%A3o/context/Software%20Design%20Document%20-%20EstocaP%C3%A3o.md) — Comprehensive technical blueprints, class diagrams, database schemas, security architectures, and Architecture Decision Records (ADRs).
-- 🏛️ [Solution Architecture Document](file:///e:/Software%20Projects/Software%20Engineering%20Portfolio/01-programacao/EstocaP%C3%A3o/context/Solution%20Architecture%20Document%20-%20EstocaP%C3%A3o.md) — Structural diagrams, C4 deployment models, OS-level permission controls, and resilience mechanics.
-- 📋 [Backlog Board README](file:///e:/Software%20Projects/Software%20Engineering%20Portfolio/01-programacao/EstocaP%C3%A3o/context/backlog/README.md) — Agile Kanban board managing atomic, SMART tasks prioritized through the RICE estimation framework.
-- 📝 [Execution Plan](file:///e:/Software%20Projects/Software%20Engineering%20Portfolio/01-programacao/EstocaP%C3%A3o/context/Execution%20Plan%20-%20EstocaP%C3%A3o.md) — Systematic build phases, integration checkpoints, and automated boundary verification rules.
+- 🔍 [Product Discovery Document](file:///D:/Software%20Projects/Portifolio/01-programacao/EstocaPao/context/Product%20Discovery%20Document-%20EstocaP%C3%A3o.md) — Exhaustive user interviews, persona mappings, target audience pain points, and functional requirements definition.
+- 🏗️ [Software Design Document](file:///D:/Software%20Projects/Portifolio/01-programacao/EstocaPao/context/Software%20Design%20Document%20-%20EstocaP%C3%A3o.md) — Comprehensive technical blueprints, class diagrams, database schemas, security architectures, and Architecture Decision Records (ADRs).
+- 🏛️ [Solution Architecture Document](file:///D:/Software%20Projects/Portifolio/01-programacao/EstocaPao/context/Solution%20Architecture%20Document%20-%20EstocaP%C3%A3o.md) — Structural diagrams, C4 deployment models, OS-level permission controls, and resilience mechanics.
+- 📋 [Backlog Board README](file:///D:/Software%20Projects/Portifolio/01-programacao/EstocaPao/context/backlog/README.md) — Agile Kanban board managing atomic, SMART tasks prioritized through the RICE estimation framework.
+- 📝 [Execution Plan](file:///D:/Software%20Projects/Portifolio/01-programacao/EstocaPao/context/Execution%20Plan%20-%20EstocaP%C3%A3o.md) — Systematic build phases, integration checkpoints, and automated boundary verification rules.
 
 ---
 
